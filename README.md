@@ -3,6 +3,8 @@
 A custom launcher and a set of emulators for the **X9 Black Hawk** handheld (Allwinner F1C100s/F1C200s, Melis OS).
 Built by **gremlin247** with Claude. Firmware version 1.2.0.1.
 
+> **THIS IS NOT AN SD CARD IMAGE. THE SD CARD IMAGE WILL BE RELEASED SOON IF THERE IS ENOUGH INTEREST.**
+
 ![Main menu](screenshots/01_main_menu.png)
 
 ## What's in it

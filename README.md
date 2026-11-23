@@ -7,6 +7,8 @@ Built by **gremlin247** with Claude. Firmware version 1.2.0.1.
 
 ![Main menu](screenshots/01_main_menu.png)
 
+> **THIS IS NOT AN SD CARD IMAGE. THE SD CARD IMAGE WILL BE RELEASED SOON IF THERE IS ENOUGH INTEREST**
+
 ## What's in it
 
 - **X9 Phantom launcher** (`home.axf`): a neon synthwave menu with smooth text, categories (Applications, Emulators, Media), System Info, Settings and About. It also has a volume bar, menu click sounds and a working power switch.
@@ -68,6 +70,8 @@ These are the letters printed on the X9.
 The game names in the screenshots are only examples. No games are included.
 
 ## Installing
+
+**THIS IS NOT AN SD CARD IMAGE. THE SD CARD IMAGE WILL BE RELEASED SOON IF THERE IS ENOUGH INTEREST**
 
 Download [`release/X9_Phantom_SD_Restore_v1.zip`](release/X9_Phantom_SD_Restore_v1.zip) and unzip it. On your PC the X9's card shows up as two drives: the **system** partition (E: in these steps) and the **games** partition (F:).
 

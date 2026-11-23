@@ -7,8 +7,6 @@ Built by **gremlin247** with Claude. Firmware version 1.2.0.1.
 
 ![Main menu](screenshots/01_main_menu.png)
 
-> **THIS IS NOT AN SD CARD IMAGE. THE SD CARD IMAGE WILL BE RELEASED SOON IF THERE IS ENOUGH INTEREST**
-
 ## What's in it
 
 - **X9 Phantom launcher** (`home.axf`): a neon synthwave menu with smooth text, categories (Applications, Emulators, Media), System Info, Settings and About. It also has a volume bar, menu click sounds and a working power switch.
